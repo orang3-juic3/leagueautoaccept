@@ -5,7 +5,7 @@
 #ifndef AUTOACCEPT_AUTOACCEPT_H
 #define AUTOACCEPT_AUTOACCEPT_H
 #include <stdio.h>
-#include "windows.h"
+#include "Windows.h"
 #include <math.h>
 #define TARGET RGB(8,11,13) //#0a0e0f
 struct Strip {
