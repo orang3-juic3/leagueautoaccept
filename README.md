@@ -1,2 +1,2 @@
-program i wrote because sometimes i need to shit while in q
+program i wrote because sometimes i need to  while in q
 to build 
